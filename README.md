@@ -46,6 +46,13 @@ print("Echo from server:", data)
 s.close()
 ```
 ## OUPUT:
+server.py:
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/dc61993f-cfdc-4d12-ac13-546ebfcb8099" />
+
+client.py:
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2e43865b-96b1-454e-ad59-966ad9384eda" />
+
+
 
 ## RESULT
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
